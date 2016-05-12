@@ -19,5 +19,5 @@
 # Ignore all cloud9 and hidden files
 .c9/
 
-# Ignore Prject Notes
+# Ignore Project Notes
 Project_notes.txt
